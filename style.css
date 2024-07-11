@@ -1,0 +1,64 @@
+.navbar-brand{
+   position: relative;
+    top: -60px;
+    color: red;
+    flex-grow: 5;
+    font-size: 30px;
+}
+.navEle{
+    position: relative;
+    justify-content: space-between;
+    margin-right: 20px;
+    font-size: 30px;
+    right: -900px;
+    top: -100px;
+    display: inline;
+    align-items: stretch;
+    text-decoration: none;
+    color:red;
+}
+
+.main {
+  background-image: url('./background\ 2.webp');
+}
+.btn-primary{
+    font-size: 70px;
+    justify-content: center;
+}
+p{
+    font-size: 30px;
+    color: rgb(255, 0, 72);
+}
+h1{
+    color: crimson;
+   font-size: 50px;
+
+}
+img {
+    width: 500px;
+}
+.btn btn-primary mb-2{
+    background-color: aqua;
+}
+/* #instagram{
+    justify-content: center;
+} */
+/* .col{
+    flex-direction: row;
+} */
+ /* .container5{
+    flex-direction: row;
+ } */
+  /* .btn-primary{
+    justify-content: center;
+  } */
+@media screen(max-width:600px) {
+   .main{
+ background-image:url(background 3.webp);
+
+   } 
+   .btn-primary{
+    font-size: 36px;
+    line-height: 50px;
+   }
+}

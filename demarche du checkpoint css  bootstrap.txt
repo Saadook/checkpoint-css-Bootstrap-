@@ -1,0 +1,46 @@
+checkpoint css/bootstrap:
+
+
+name: relax and eat
+header section:
+
+
+navbar:home-menu-about us-contact on the right/name of rest on left
+
+hero section:
+
+image background
+button in the center of hero section
+
+menu section:
+
+grid layout for the menu section
+three menu items with image and description and price
+entrées:-bruschetta classique:pain grillé frotté a l'ail,tomates fraiches,basilic et huile d'olive extra vierge 5$
+        - arancini au fromage:boulettes de riz frites farcies au fromage mozarella  et aux herbes 5$
+        -carpaccio de courgettes:courgettes fines  en tranches avec citron,huile d'olive,et copeaux de parmesan 5$
+        -fettuccine alfredo:fettuccine maison dans une sauce crémeuse a l'ail,au parmesan et au poivre noir 5$
+Plats  :-penne a la pesto:penne avec une sauce pesto maison,tomates cerises et pignons de pain 7$
+        -GNOCCIS A LA TRUFFE:gnoccis maison a la creme de truffe noir,champignons sautés et parmesan 7$
+        -LASAGNE AU FOUR:couches de pates maison,courgettes,sauc tomates,béchamel et fromages gratinés 7$
+Deserts:-TARTE AU CITRON MERINGUEE/unne tarte legère au citron garnie de meringue doréee 8$
+        -TIRAMISU MAISON:le classique a base de mascarpone,café,biscuits imbibés 6$ 
+        -GELATO ARTISANAL:selection de glaces et sorbets faits maison 5$
+Boisson:-LARGE SELECTION DE VINS:une variété de vins blancs et rouges soigneusement selectionés pour vos plats 9$
+        -COCKTAILS DE LA MAISON:decouvrez nos creations de cocktails inspirée par l'Italie
+about us section:
+
+
+grid system to create a two column layout
+image on one side and a paragraph about the restaurent on the other side
+
+contact section:
+
+
+design a contact section with a form
+include fields for name,email,message,and a submit button
+
+footer:
+
+
+copyright information and social media icons
