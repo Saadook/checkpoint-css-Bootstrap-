@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.cardImg{
+    display: flex;
+    justify-content: center;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    color: limegreen;
+}
+img {
+    width: 500px;
+}
+h1{
+    color: crimson;
+   font-size: 50px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+

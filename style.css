@@ -18,9 +18,7 @@
     color:red;
 }
 
-.main {
-  background-image: url('./background\ 2.webp');
-}
+
 .btn-primary{
     font-size: 70px;
     justify-content: center;
@@ -29,10 +27,17 @@ p{
     font-size: 30px;
     color: rgb(255, 0, 72);
 }
-h1{
-    color: crimson;
-   font-size: 50px;
+body{
+    /* background-image: url(/backgroundddd.jpg!sw800); */
+    background-repeat: no-repeat;
+}
 
+   
+
+
+.bruschetta{
+    /* display: flex; */
+    /* justify-content: center; */
 }
 img {
     width: 500px;
@@ -52,13 +57,58 @@ img {
   /* .btn-primary{
     justify-content: center;
   } */
-@media screen(max-width:600px) {
-   .main{
- background-image:url(background 3.webp);
+  @media screen and (max-width: 600px) {
+    body {
+      background-color: olive;
+      /* background-image: url(/background\ 3.webp); */
+      background-image: url('https://marketplace.canva.com/EAFA7Zl1wfs/1/0/800w/canva-pastel-red-green-illustrative-element-centric-video-background-iIFp5eiQcPg.jpg');
+      background-repeat: repeat;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      
+    }
+    .logo{
+        display: none;
+    }
+    .navbar-brand{
+        font-size: 36px;
+        line-height: 50px;
+    }
+    .btn-primary{
+        font-size: 36px;
+        line-height: 50px;
+    }
+    .navEle{
+        font-size: 20px;
+        line-height: 50px;
+        color: white;
+        position: relative;
+        top: 3px ;
+        left: 30px;
+    }
+    .main-nav{
+       
+        background-color: red;
+    }
+.main{
+    display: flex;
+   flex-wrap: wrap;
+}
+.container{
+    height: 100px;
+}
 
-   } 
-   .btn-primary{
+
+  }
+   /* .btn-primary{
     font-size: 36px;
     line-height: 50px;
+   } */
+
+ 
+    
+    
+   .row{
+    display: flex;
+    flex-direction: row-reverse ;
+
    }
-}
